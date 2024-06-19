@@ -1,0 +1,21 @@
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Integracja Ceneo.pl.exe
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Integracja Ceneo.pl.deps.json
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Integracja Ceneo.pl.runtimeconfig.json
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Integracja Ceneo.pl.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Integracja Ceneo.pl.pdb
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.csproj.AssemblyReference.cache
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.AssemblyInfoInputs.cache
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.AssemblyInfo.cs
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.csproj.CoreCompileInputs.cache
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integrac.EE77329B.Up2Date
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\refint\Integracja Ceneo.pl.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.pdb
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.genruntimeconfig.cache
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\ref\Integracja Ceneo.pl.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Fizzler.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
