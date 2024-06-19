@@ -19,3 +19,4 @@ C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8
 C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Fizzler.dll
 C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\Fizzler.Systems.HtmlAgilityPack.dll
 C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\bin\Debug\net8.0\HtmlAgilityPack.CssSelectors.dll
+C:\Users\FeZoX\Desktop\Integracja cen z Ceneo\Integracja Ceneo.pl\obj\Debug\net8.0\Integracja Ceneo.pl.sourcelink.json
