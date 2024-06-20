@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj": {}
+    "c:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj": {
+    "c:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj",
+        "projectUniqueName": "c:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj",
         "projectName": "Integracja Ceneo.pl",
-        "projectPath": "C:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj",
+        "projectPath": "c:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\Integracja Ceneo.pl.csproj",
         "packagesPath": "C:\\Users\\FeZoX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\obj\\",
+        "outputPath": "c:\\Users\\FeZoX\\Desktop\\Integracja cen z Ceneo\\Integracja Ceneo.pl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,6 +60,14 @@
             "HtmlAgilityPack.CssSelectors": {
               "target": "Package",
               "version": "[1.0.2, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.14.1, )"
             }
           },
           "imports": [
